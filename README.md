@@ -11,7 +11,7 @@ Decorator: cada ingrediente envuelve al pedido existente y suma su descripción 
 
 ![alt text](evidencias/capturas/image.png)
 
-## Capturas:
+## Capturas mockup exportada desde Figma:
 
 ![alt text](<evidencias/capturas/Sin t├¡tulo-im├ígenes-1.png>)
 ![alt text](<evidencias/capturas/Sin t├¡tulo-im├ígenes-1.png>)
