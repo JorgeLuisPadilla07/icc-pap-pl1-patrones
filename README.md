@@ -17,5 +17,9 @@ Decorator: cada ingrediente envuelve al pedido existente y suma su descripción 
 ![alt text](<evidencias/capturas/Sin t├¡tulo-im├ígenes-1.png>)
 
 
-## Pruebas del proyecto Completo:
+# Pruebas del proyecto Completo:
 
+## App recién abierta, sin crear nada: pulsa Agregar ingrediente
+![alt text](src/main/java/app1/imagenes/image.png)    
+
+## Clic en + Café dos veces

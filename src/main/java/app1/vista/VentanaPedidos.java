@@ -52,7 +52,7 @@ import java.util.List;
 public class VentanaPedidos extends JFrame {
 
     // ---- Paleta: un acento azul para acciones; rojo/verde/ámbar solo para mensajes ----
-    private static final Color FONDO = new Color(0xF4F4F4);
+    private static final Color FONDO = new Color(0xF5F4F4);
     private static final Color TARJETA = Color.WHITE;
     private static final Color BORDE = new Color(0xD9D9DE);
     private static final Color TEXTO = new Color(0x1F2328);
