@@ -23,3 +23,18 @@ Decorator: cada ingrediente envuelve al pedido existente y suma su descripción 
 ![alt text](src/main/java/app1/imagenes/image.png)    
 
 ## Clic en + Café dos veces
+![alt text](src/main/java/app1/imagenes/cap2.png)
+
+## Selecciona P-001, agrega Azúcar y luego Crema
+![alt text](src/main/java/app1/imagenes/cap3.png)
+
+## Clic en la fila P-002
+![alt text](src/main/java/app1/imagenes/cap4.png)
+
+## Con P-002 seleccionado, elige Queso y pulsa Agregar
+![alt text](src/main/java/app1/imagenes/cap5.png)
+
+## Con P-002, agrega Azúcar dos veces
+![alt text](src/main/java/app1/imagenes/cap6.png)
+
+## 
